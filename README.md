@@ -1,2 +1,3 @@
 # PaletteCrafter
 
+PaletteCrafter is a web-based tool designed to generate beautiful, harmonious color palettes. Whether you're a designer, developer, or just someone who loves experimenting with colors, this app helps you create color schemes that are visually appealing and balanced. It uses color harmony principles to generate palettes that are based on tried-and-true color combinations, such as complementary, analogous, and triadic schemes.
